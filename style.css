@@ -258,9 +258,7 @@ textarea, label {
 .preloader.active .loading-mask {
   width: 0; }
 
-/*------------------------------------------------
-	Start Styling
--------------------------------------------------*/
+
 .mt20{margin-top:20px;}
 .site-wrapper {
   border-top: 4px solid #ff0037; }
@@ -338,9 +336,7 @@ textarea, label {
     line-height: 0.9;
     text-transform: uppercase; }
 
-/*------------------------------------------------
-    Home Page
--------------------------------------------------*/
+
 
 .hexagon-item:first-child {
     margin-left: 0;
@@ -524,9 +520,7 @@ textarea, label {
     -o-transform: rotate(30deg) translate(87px, -80px);
     transform: rotate(30deg) translate(87px, -80px);
 }
-/*------------------------------------------------
-    Welcome Page
--------------------------------------------------*/
+
 .author-image-large {
   position: absolute;
   right: 0;
